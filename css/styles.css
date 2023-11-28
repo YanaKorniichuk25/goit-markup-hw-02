@@ -31,3 +31,34 @@
   font-weight: 400;
   line-height: 24px;
 }
+.section-title {
+  color: #fff;
+  text-align: center;
+  font-family: 'Roboto' sans-serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+}
+.section-button {
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: rgba(0, 0, 0, 0.15);
+  color: #ffffff;
+}
+.title-name {
+  color: #2e2f42;
+  font-family: 'Roboto' sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.title-text {
+  color: #434455;
+  font-family: 'Roboto' sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
