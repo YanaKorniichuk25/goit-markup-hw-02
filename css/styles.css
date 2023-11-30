@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -31,6 +31,8 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
+  font-style: normal;
+  letter-spacing: 0.02em;
 }
 .page-nav:hover,
 .page-nav:active {
@@ -39,11 +41,17 @@
 .page-nav:focus {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 .contacts {
   color: #434455;
   font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-.contacts:hover {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 .section-title {
