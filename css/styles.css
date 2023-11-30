@@ -47,6 +47,9 @@ body {
 .contacts:focus {
   color: #404bbf;
 }
+.section {
+  background-color: #2e2f42;
+}
 .section-title {
   color: #fff;
   text-align: center;
@@ -54,13 +57,22 @@ body {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 .section-button {
   border-radius: 4px;
   background: #4d5ae5;
   box-shadow: rgba(0, 0, 0, 0.15);
   color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.section-button:hover,
+.section-button:focus {
+  background-color: #404bbf;
 }
 .title-name {
   color: #2e2f42;
