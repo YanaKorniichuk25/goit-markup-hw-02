@@ -27,11 +27,11 @@ body {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.page-nav:hover,
-.page-nav:active {
+.menu:hover,
+.menu:active {
   color: #404bbf;
 }
-.page-nav:focus {
+.menu:focus {
   color: #404bbf;
 }
 .address {
